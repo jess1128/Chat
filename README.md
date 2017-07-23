@@ -1,5 +1,6 @@
 # Chat
 Xamarin base chat / social playground
+<<<<<<< HEAD
 
 ## Package Sources
 * aspnetcore-dev:    https://dotnet.myget.org/F/aspnetcore-dev/api/v3/index.json
@@ -7,3 +8,4 @@ Xamarin base chat / social playground
 * xamarinforms-ci:   https://www.myget.org/F/xamarinforms-ci/api/v2
 
 ## Notes
+=======
