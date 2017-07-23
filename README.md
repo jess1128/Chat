@@ -9,3 +9,4 @@ Xamarin base chat / social playground
 
 ## Notes
 =======
+>>>>>>> c7bfa23d142afedd755209141a1dda9c54934796
