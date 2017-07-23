@@ -23,6 +23,7 @@
 
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="2.3.6.120-nightly" />
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
   </ItemGroup>
 
   <ItemGroup>
