@@ -8,4 +8,5 @@ Xamarin base chat / social playground
 * xamarinforms-ci:   https://www.myget.org/F/xamarinforms-ci/api/v2
 
 ## Notes
+=======
 >>>>>>> c7bfa23d142afedd755209141a1dda9c54934796
